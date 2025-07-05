@@ -38,6 +38,7 @@ const LeftSide = () => {
           <p className="text-xs">Ready to connect...</p>
           <p className="text-xs">Waiting for contact request...</p>
         </div>
+        {/* change  */}
         <div className="flex justify-evenly text-sm text-white gap-3 ">
           <Link href={"https://x.com/shovodevv"} target="blank">
             <Twitter
